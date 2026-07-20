@@ -125,27 +125,6 @@ Utilizado para empaquetar la aplicación como un archivo ejecutable `.exe`, perm
 ### Microsoft Excel
 Formato utilizado como fuente de entrada y como archivo final para la presentación y análisis de resultados.
 
----
-
-## 📁 Estructura del proyecto
-
-```text
-TrainingDataNormalizer/
-│
-├── app.py
-├── normalizador.py
-├── reglas.py
-├── equivalencias.py
-├── excel_salida.py
-├── config_forms.py
-├── requirements.txt
-├── README.md
-│
-└── examples/
-    ├── datos_ejemplo.xlsx
-    └── resultado_ejemplo.xlsx
-
-
 ## 📸 Capturas de la aplicación
 
 ### Interfaz principal
@@ -175,6 +154,29 @@ La aplicación genera automáticamente diferentes reportes y visualizaciones den
 #### Distribución por rol
 
 ![Gráfico generado por rol](imagenes/grafico-generado-por-rol.png)
+
+---
+
+## 📁 Estructura del proyecto
+
+```text
+TrainingDataNormalizer/
+│
+├── app.py
+├── normalizador.py
+├── reglas.py
+├── equivalencias.py
+├── excel_salida.py
+├── config_forms.py
+├── requirements.txt
+├── README.md
+│
+└── examples/
+    ├── datos_ejemplo.xlsx
+    └── resultado_ejemplo.xlsx
+
+
+
 
 ## 🔒 Privacidad de los datos
 
