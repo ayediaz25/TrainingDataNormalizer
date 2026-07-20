@@ -145,6 +145,37 @@ TrainingDataNormalizer/
     ├── datos_ejemplo.xlsx
     └── resultado_ejemplo.xlsx
 
+
+## 📸 Capturas de la aplicación
+
+### Interfaz principal
+
+La aplicación permite seleccionar el archivo de entrada y ejecutar automáticamente el proceso de normalización.
+
+![Interfaz principal](imagenes/interfaz-proceso.png)
+
+### Procesamiento de datos
+
+Visualización de la aplicación durante el procesamiento de los registros.
+
+![Interfaz con datos](imagenes/interfaz-con-datos.png)
+
+### 📊 Reportes generados
+
+La aplicación genera automáticamente diferentes reportes y visualizaciones dentro del archivo Excel resultante.
+
+#### Distribución por cargo
+
+![Gráfico generado por cargo](imagenes/grafico-generado-por-cargo.png)
+
+#### Distribución por empresa
+
+![Gráfico generado por empresa](imagenes/grafico-generado-por-empresa.png)
+
+#### Distribución por rol
+
+![Gráfico generado por rol](imagenes/grafico-generado-por-rol.png)
+
 ## 🔒 Privacidad de los datos
 
 Este repositorio fue desarrollado con fines demostrativos y de portfolio.
